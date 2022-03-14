@@ -6,3 +6,28 @@
   color: #2c3e50;
   margin-top: 60px;
 }
+body {
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #161616;
+}
+.title1 {
+  position: absolute;
+  width: 328px;
+  height: 53px;
+  left: 18px;
+  top: 106px;
+  
+  font-family: Sansita;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 58px;
+  display: flex;
+  align-items: center;
+
+  color: #FFFFFF;
+}
+
