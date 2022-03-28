@@ -12,7 +12,7 @@ html, body,*{
     color: white;
     text-decoration: none; 
     display: inline;
-    space
+ justify-content: space-between;
 }
 
 body{
