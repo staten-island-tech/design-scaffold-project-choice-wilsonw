@@ -8,11 +8,18 @@ html, body,*{
 }
 .nav-item-desk{
     font-size: 50px;
-    display: flex;
     color: white;
     text-decoration: none; 
     display: inline;
- justify-content: space-between;
+    justify-content: space-between;
+
+    top: 20px;
+ 
+}
+.desk-nav{
+    display: flex;
+    justify-content: space-evenly;
+
 }
 
 body{
@@ -21,4 +28,11 @@ body{
 h1{
     color:white;
     font-size: 10rem;
+}
+.main-header{
+    background-color:#2f2f2f;
+}
+.nav-items{
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
