@@ -12,7 +12,6 @@ html, body,*{
     text-decoration: none; 
     display: inline;
     justify-content: space-between;
-
     top: 20px;
  
 }
@@ -35,4 +34,11 @@ h1{
 .nav-items{
     padding-top: 15px;
     padding-bottom: 15px;
+}
+.mainbutton{
+    font-size: 50px;
+    color: white;
+    text-decoration: none; 
+    display: inline;
+    justify-content: space-between;
 }
