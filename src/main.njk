@@ -9,7 +9,17 @@
 </head>
 
 <body>
+    {% include 'nav.njk'%}
     <h1>main</h1>
+    <ul>
+        {%- for post in collections.post -%}
+        <article class="article">
+            <div class="article-text">
+                <h3 class="article-title">{{post.data.title}}<h3>
+            </div>
+        </article>
+        {%- endfor -%}
+    </ul>
 </body>
 
 </html>
