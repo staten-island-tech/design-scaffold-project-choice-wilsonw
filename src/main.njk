@@ -11,14 +11,16 @@
 <body>
     {% include 'nav.njk'%}
     <h1>main</h1>
-    <ul>
+    <ul class="posts">
         {%- for post in collections.post -%}
         <article class="article">
             <div class="article-text">
-                <h3 class="article-title">{{post.data.title}}<h3>
+                <h3 class="article-title">{{post.data.title}}</h3>
             </div>
+            <img src="{{post.data.image}}" class="img">
         </article>
         {%- endfor -%}
+
     </ul>
 </body>
 
