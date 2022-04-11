@@ -5,5 +5,5 @@ aired: September 17, 2016
 duration: 2hr 10min
 genre: Drama, School, Shounen
 studio: Kyoto Animation
-image: /img/Koe no Katachi.jpg
+image: /img/horimiya.jpg 
 tags: ["post","featured"]
