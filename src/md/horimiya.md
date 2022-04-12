@@ -7,3 +7,4 @@ genre: Drama, School, Shounen
 studio: Kyoto Animation
 image: /img/horimiya.jpg 
 tags: ["post","featured"]
+url: http://localhost:8080/redir/horimiya.njk
