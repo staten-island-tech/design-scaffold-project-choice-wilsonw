@@ -10,11 +10,11 @@
 
 <body>
     {% include 'nav.njk'%}
-    <h1>Anime</h1>
+    <h1 class="animetitle">Anime</h1>
     {%- for post in collections.post -%}
     <article class="articles">
         <div class="article-text">
-            <a href="{{post.data.url}}"><img src="{{post.data.animeimg}}" class="img"></a>
+            <a href="{{post.data.url}}"><img src="{{post.data.animeimg}}" class="image"></a>
             <h3 class="article-title">{{post.data.anime}}</h3>
 
         </div>

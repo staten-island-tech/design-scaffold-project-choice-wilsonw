@@ -1,5 +1,5 @@
 --- 
-anime: Koe no Katachi
+anime1: Koe no Katachi
 title: Koe no Katachi 
 type: movie
 aired: September 17, 2016
@@ -9,3 +9,6 @@ studio: Kyoto Animation
 animeimg: /img/Koe no Katachi.jpg
 image: /img/Koe no Katachi.jpg
 tags: ["post","featured"]
+---
+<link rel="stylesheet" href="/style/style.css">
+{% include 'nav.njk'%}

@@ -9,3 +9,6 @@ studio: Kyoto Animation
 animeimg: /img/Kimi no Na wa.jpg
 image: /img/Kimi no Na wa.jpg
 tags: ["post","featured"]
+---
+<link rel="stylesheet" href="/style/style.css">
+{% include 'nav.njk'%}
