@@ -52,6 +52,7 @@ h1{
     width: 100%;
     height: 4rem;
     font-size: 3rem;
+    color: white;
 
 }
 .posts{
@@ -80,9 +81,17 @@ margin-top: 4rem;
     text-align: center;
     color: white;
 }
-.image{
-    margin-top: -5rem;
-}
 .animetitle{
     margin-bottom: 5rem;
+}
+.animepost{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin:50rem;
+    margin-top: 5rem;
+    
+}
+h2{
+    color: white;
+    font-size: 7rem;
 }

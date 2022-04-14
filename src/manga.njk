@@ -10,6 +10,17 @@
 
 <body>
     {% include 'nav.njk'%}
+    <h1 class="animetitle">Manga</h1>
+    {%- for post in collections.post -%}
+    <article class="articles">
+        <div class="article-text">
+            <a href="{{post.data.url}}"><img src="{{post.data.mangaimg}}" class="image"></a>
+            <h3 class="article-title">{{post.data.manga}}</h3>
+
+        </div>
+
+    </article>
+    {%- endfor -%}
 </body>
 
 </html>

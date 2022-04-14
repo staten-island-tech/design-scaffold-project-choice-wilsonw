@@ -10,17 +10,20 @@
 
 <body>
     {% include 'nav.njk'%}
-    <h1 class="animetitle">Anime</h1>
-    {%- for post in collections.post -%}
-    <article class="articles">
-        <div class="article-text">
-            <a href="{{post.data.url}}"><img src="{{post.data.animeimg}}" class="image"></a>
-            <h3 class="article-title">{{post.data.anime}}</h3>
+    <h2 class="animetitle">Anime</h2>
+    <ul class="animepost">
+        {%- for post in collections.post -%}
+        <article class="article">
+            <div class="article-text">
+                <a href="{{post.url}}"><img src="{{post.data.animeimg}}" class="image"></a>
+                <h3 class="article-title">{{post.data.anime}}</h3>
 
-        </div>
+            </div>
 
-    </article>
-    {%- endfor -%}
+        </article>
+
+        {%- endfor -%}
+    </ul>
 </body>
 
 </html>
