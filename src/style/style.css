@@ -109,13 +109,22 @@ margin-top: 4rem;
     color: white;
  margin-top: 1rem;
 }
-.description{
+.info{
     text-align:end;
-    font-size: 3rem;
+    font-size: 4rem;
     color: white;
+    list-style: none;
+    text-align: left !important;
 }
 .rating{
     color: white;
-    font-size: 3rem;
-    text
+    font-size: 4rem;
+    padding: 10px;
+    list-style: none;
+    text-align: left !important;
+}
+.description{
+    display: flex;
+
+
 }
