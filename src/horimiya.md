@@ -11,7 +11,8 @@ tags: ["post","featured"]
 <img src="/img/Horimiya.jpg" class="blog-image">
 
 <div class="description">
-<ul class="info">
+<div class="info1">
+<ul class="info" style="text-align:left;">
   <li>Type: Manga</li>
   <li>Published: Oct 18, 2011- March 18, 2021</li>
   <li>Chapters: 125</li>
@@ -19,6 +20,7 @@ tags: ["post","featured"]
   <li>Genres: Comedy, Romance, Slice of Life</li>
   <li>Authors: Hagiwara, Daisuke (Art), HERO (Story)</li>
 </ul>
+</div>
 <ul class="rating">
   <li>[Story] 8</li>
   <li>[Art] 10</li>
