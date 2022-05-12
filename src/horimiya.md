@@ -10,23 +10,19 @@ tags: ["post","featured"]
 <h3 class="blog-title">Horimiya</h3>
 <img src="/img/Horimiya.jpg" class="blog-image">
 
-<div class="description">
-<div class="info1">
-<ul class="info" style="text-align:left;">
-  <li>Type: Manga</li>
-  <li>Published: Oct 18, 2011- March 18, 2021</li>
-  <li>Chapters: 125</li>
-  <li>Demographic: Shounen</li>
-  <li>Genres: Comedy, Romance, Slice of Life</li>
-  <li>Authors: Hagiwara, Daisuke (Art), HERO (Story)</li>
-</ul>
-</div>
-<ul class="rating">
-  <li>[Story] 8</li>
-  <li>[Art] 10</li>
-  <li>[Character] 7</li>
-  <li>[Enjoyment] 9</li>
-  <li>[Overall] 8.5</li>
-</ul>
-</div>
+! [Tux, the Linux mascot](/img/Horimiya.jpg)
+
+- Type: Manga
+- Published: Oct 18, 2011- March 18, 2021
+- Chapters: 125
+- Demographic: Shounen
+- Genres: Comedy, Romance, Slice of Life
+- Authors: Hagiwara, Daisuke (Art), HERO (Story)
+
+- [Story] 8 
+- [Art] 10
+- [Character] 7
+- [Enjoyment] 9
+- [Overall] 8.5
+
 
