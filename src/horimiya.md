@@ -10,8 +10,6 @@ tags: ["post","featured"]
 <h3 class="blog-title">Horimiya</h3>
 <img src="/img/Horimiya.jpg" class="blog-image">
 
-! [Tux, the Linux mascot](/img/Horimiya.jpg)
-
 - Type: Manga
 - Published: Oct 18, 2011- March 18, 2021
 - Chapters: 125
