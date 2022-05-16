@@ -10,12 +10,12 @@ tags: ["post","featured"]
 <h3 class="blog-title">Horimiya</h3>
 <img src="/img/Horimiya.jpg" class="blog-image">
 
-- Type: Manga
-- Published: Oct 18, 2011- March 18, 2021
-- Chapters: 125
-- Demographic: Shounen
-- Genres: Comedy, Romance, Slice of Life
-- Authors: Hagiwara, Daisuke (Art), HERO (Story)
+1. Type: Manga
+2. Published: Oct 18, 2011- March 18, 2021
+3. Chapters: 125
+4. Demographic: Shounen
+5. Genres: Comedy, Romance, Slice of Life
+6. Authors: Hagiwara, Daisuke (Art), HERO (Story)
 
 - [Story] 8 
 - [Art] 10

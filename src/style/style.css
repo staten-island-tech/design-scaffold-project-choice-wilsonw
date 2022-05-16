@@ -109,28 +109,17 @@ margin-top: 4rem;
     color: white;
  margin-top: 1rem;
 }
-.info{
-    text-align:end;
-    font-size: 4rem;
-    color: white;
+li{
+    color:white;
+    font-size: 3rem;
     list-style: none;
-    text-align: left !important;
-}
-.rating{
-    color: white;
-    font-size: 4rem;
-    padding: 10px;
-    list-style: none;
-    text-align: left !important;
-}
-.description{
-    
     display: flex;
-    left:50%;
-    margin-left:;
-
+    justify-content: space-evenly;
 }
 ul{
-    font-size: 10rem;
-    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+ol{
+
 }
