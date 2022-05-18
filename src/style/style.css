@@ -109,17 +109,19 @@ margin-top: 4rem;
     color: white;
  margin-top: 1rem;
 }
+
+ul{
+margin-left:65%;
+margin-top: -20rem;
+
+}
+ol{
+margin-left: 30%;
+
+}
 li{
     color:white;
     font-size: 3rem;
     list-style: none;
     display: flex;
-    justify-content: space-evenly;
-}
-ul{
-    display: flex;
-    justify-content: space-evenly;
-}
-ol{
-
 }
