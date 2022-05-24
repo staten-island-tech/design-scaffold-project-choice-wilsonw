@@ -1,16 +1,21 @@
 --- 
-manga: Horimiya
-title: Horimiya
-mangaimg: /img/horimiya.jpg 
-image: /img/horimiya.jpg 
+anime: Kimi no Na wa
+title: Kimi no Na wa
+type: movie
+aired: September 17, 2016
+duration: 2hr 10min
+genre: Drama, School, Shounen
+studio: Kyoto Animation
+animeimg: /img/Kimi no Na wa.jpg
+image: /img/Kimi no Na wa.jpg
 tags: ["post","featured"]
 ---
 <link rel="stylesheet" href="/style/style.css">
 {% include 'nav.njk'%}
-<h3 class="blog-title">Horimiya</h3>
-<img src="/img/Horimiya.jpg"
+<h3 class="blog-title">Kimi no Na wa</h3>
+<img src="/img/Kimi no Na wa.jpg"
 
-#### Type: Manga
+#### Type: Movie
 #### Published: Oct 18, 2011- March 18, 2021
 #### Chapters: 125
 #### Demographic: Shounen
@@ -22,5 +27,3 @@ tags: ["post","featured"]
 ##### [Character] 7
 ##### [Enjoyment] 9
 ##### [Overall] 8.5
-
-

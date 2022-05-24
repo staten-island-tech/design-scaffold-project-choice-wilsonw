@@ -111,12 +111,7 @@ margin-top: 4rem;
 }
 
 ul{
-margin-left:65%;
-margin-top: -20rem;
 
-}
-ol{
-margin-left: 30%;
 
 }
 li{
@@ -125,3 +120,15 @@ li{
     list-style: none;
     display: flex;
 }
+h4{
+    color:white;
+    font-size: 3rem;
+    display: flex;
+    margin-left: 30%;
+    flex-direction: row;
+}
+h5{
+    color:white;
+    font-size: 3rem;
+    display: flex;
+margin-left: 100px;
