@@ -17,16 +17,16 @@ tags: ["post","featured"]
 <h3 class="blog-title">Koe no Katachi</h3>
 <img src="/img/Koe no katachi.jpg">
 
-####  Type: Movie
+#### Type: Movie
 #### Aired: Sept 17 2016
 #### Duration 2hr 10min
 #### Rating: PG-13
-#### Genres: Drama, School, Shounen
-#### Studio: Kyoto Animation
+#### Genres: Drama
+#### Producers: Shochiku, Pony Canyon, Kodansha, ABC Animation, Quaras
 
- ##### [Story] 8 
- ##### [Art] 10
+ ##### [Story] 9 
+ ##### [Art] 7
  ##### [Sound] 8
- ##### [Character] 7
+ ##### [Character] 8
  ##### [Enjoyment] 10
- ##### [Overall] 8.6
+ ##### [Overall] 8.4

@@ -124,11 +124,13 @@ h4{
     color:white;
     font-size: 3rem;
     display: flex;
-    margin-left: 30%;
+    margin-left: 37%;
     flex-direction: row;
 }
 h5{
     color:white;
     font-size: 3rem;
     display: flex;
-margin-left: 100px;
+margin-left: 39%;
+font-weight: 900;
+}

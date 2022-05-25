@@ -13,7 +13,7 @@ tags: ["post","featured"]
 <link rel="stylesheet" href="/style/style.css">
 {% include 'nav.njk'%}
 <h3 class="blog-title">Namaikizakari</h3>
-<img src="/img/Namaikizakari.jpg"
+<img src="/img/Namaikizakari.jpg">
 
 #### Type: Manga
 #### Published: Oct 19, 2013 to Dec 20, 2021

@@ -13,17 +13,19 @@ tags: ["post","featured"]
 <link rel="stylesheet" href="/style/style.css">
 {% include 'nav.njk'%}
 <h3 class="blog-title">Kimi no Na wa</h3>
-<img src="/img/Kimi no Na wa.jpg"
+<img src="/img/Kimi no Na wa.jpg">
+
 
 #### Type: Movie
-#### Published: Oct 18, 2011- March 18, 2021
-#### Chapters: 125
-#### Demographic: Shounen
-#### Genres: Comedy, Romance, Slice of Life
-#### Authors: Hagiwara, Daisuke (Art), HERO (Story)
+#### Aired: Aug 26, 2016
+#### Duration: 1hr 46min
+#### Rating: PG-13
+#### Genres: Drama, Supernatural
+#### Producers: Toho, Sound Team Don Juan, Amuse, JR East Marketing & Communications
 
-##### [Story] 8 
+##### [Story] 9 
 ##### [Art] 10
-##### [Character] 7
-##### [Enjoyment] 9
-##### [Overall] 8.5
+##### [Sound] 8
+##### [Character] 8
+##### [Enjoyment] 8
+##### [Overall] 8.6
